@@ -4,17 +4,17 @@ const session = process.env.SESSION || '';
 
 const prefix = process.env.PREFIX || '.';
 
-const author = process.env.OWNER_NAME || 'Keith';
+const author = process.env.OWNER_NAME || 'BOYER';
 
-const packname = process.env.PACKNAME || 'keith';
+const packname = process.env.PACKNAME || 'Brian';
 
-const dev = process.env.OWNER_NUMBER || '254748387615';
+const dev = process.env.OWNER_NUMBER || '254717276195';
 
 const DevKeith = dev.split(",");
 
 const antibot = process.env.ANTIBOT || 'true';
 
-const botname = process.env.BOTNAME || 'KEITH-MD';
+const botname = process.env.BOTNAME || 'BRIAN-MD';
 
 const mode = process.env.MODE || 'public';
 
